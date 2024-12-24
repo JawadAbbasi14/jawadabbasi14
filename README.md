@@ -1,72 +1,72 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Jawad Abbasi | Full Stack Developer</title>
-  <link rel="stylesheet" href="style.css"> </head>
-<body>
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=500&center=true&vCenter=true&width=800&lines=Welcome+to+My+Intro+Repository+❤" style="color:green; font-weight:bolder;" />
+</h1>
 
-  <header class="header">
-    <h1 class="logo">Jawad Abbasi</h1>
-    <nav class="navigation">
-      <a href="#about">About Me</a>
-      <a href="#skills">Skills</a>
-      <a href="#projects">Projects</a>
-      <a href="#contact">Contact</a>
-    </nav>
-  </header>
+---
 
-  <main>
+<h2 align="center">✨ About Me ✨</h2>
 
-    <section class="about" id="about">
-      <h2>✨ About Me ✨</h2>
-      <p>Hi, I am <strong>Jawad Abbasi</strong>!  An aspiring Full Stack Developer & Software Engineer . Passionate about coding, learning, and building impactful solutions. </p>
-      <ul>
-        <li><strong>Email:</strong> <a href="mailto:jawadabbasi1107@gmail.com">jawadabbasi1107@gmail.com</a></li>
-        <li><strong>Portfolio:</strong> <a href="https://github.com/JawadAbbasi14/jawadabbasi14">Check My Portfolio</a> </li>
-      </ul>
-    </section>
+<p align="center">
+Hi, I am <strong>Jawad Abbasi</strong>! 🚀<br>
+An aspiring <strong>Full Stack Developer</strong> & <strong>Software Engineer</strong> 💻.<br>
+Passionate about coding, learning, and building impactful solutions. 🌟
+</p>
 
-    <section class="skills" id="skills">
-      <h2> Skills & Tools </h2>
-      <div class="skills-container">
-        <div class="skill-card">
-          <h3>Languages</h3>
-          <ul>
-            <li>Python </li>
-            <li>JavaScript ✨</li>
-            <li>HTML & CSS </li>
-          </ul>
-        </div>
-        <div class="skill-card">
-          <h3>Frameworks</h3>
-          <ul>
-            <li>React ⚛️</li>
-            <li>Node.js </li>
-            <li>Django </li>
-          </ul>
-        </div>
-        <div class="skill-card">
-          <h3>Databases</h3>
-          <ul>
-            <li>MySQL ️</li>
-            <li>MongoDB </li>
-          </ul>
-        </div>
-        <div class="skill-card">
-          <h3>Tools</h3>
-          <ul>
-            <li>Git ️</li>
-            <li>VS Code ✏️</li>
-            <li>Postman </li>
-          </ul>
-        </div>
-      </div>
-    </section>
+<ul>
+  <li><strong>Email:</strong> <a href="mailto:jawadabbasi1107@gmail.com">jawadabbasi1107@gmail.com</a></li>
+  <li><strong>Portfolio:</strong> <a href="https://github.com/JawadAbbasi14/jawadabbasi14">Check My Portfolio</a> 🌐</li>
+</ul>
 
-    <section class="projects" id="projects">
-      <h2> Projects </h2>
-      <div class="project-card">
-        <h3>Project Title</h3>
-        <p>Brief description
+---
+
+<h2 align="center">🌟 Skills & Tools 🌟</h2>
+
+<table align="center" style="border-collapse: collapse; width: 80%;">
+  <tr style="background-color: #f9f9f9;">
+    <td style="padding: 10px;"><strong>Languages</strong></td>
+    <td style="padding: 10px;">Python 🐍, JavaScript ✨, HTML & CSS 🎨</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;"><strong>Frameworks</strong></td>
+    <td style="padding: 10px;">React ⚛️, Node.js 🌿, Django 🍃</td>
+  </tr>
+  <tr style="background-color: #f9f9f9;">
+    <td style="padding: 10px;"><strong>Databases</strong></td>
+    <td style="padding: 10px;">MySQL 🗄️, MongoDB 🍃</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;"><strong>Tools</strong></td>
+    <td style="padding: 10px;">Git 🛠️, VS Code ✏️, Postman 🚀</td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🚀 Goals 🚀</h2>
+
+<ul>
+  <li>Become a <strong>Full Stack Developer</strong> 🌐</li>
+  <li>Master <strong>Software Development</strong> 📚</li>
+  <li>Contribute to impactful open-source projects 🌟</li>
+</ul>
+
+---
+
+<h2 align="center">💻 My GitHub Stats 💻</h2>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=JawadAbbasi14&show_icons=true&theme=radical" alt="Jawad's GitHub stats" style="margin: 10px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JawadAbbasi14&theme=radical" alt="GitHub Streak" style="margin: 10px;" />
+</p>
+
+<p align="center"><strong>Hello viewers, welcome to my intro repository! 🌟</strong></p>
+
+---
+
+<h2 align="center">📝 Contact Me 📝</h2>
+
+<p align="center">
+Feel free to reach out to me!<br>
+📧 <strong>Email:</strong> <a href="mailto:jawadabbasi1107@gmail.com">jawadabbasi1107@gmail.com</a><br>
+🌐 <strong>Portfolio:</strong> <a href="https://github.com/JawadAbbasi14/jawadabbasi14">My Portfolio</a>
+</p>
