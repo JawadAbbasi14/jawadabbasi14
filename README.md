@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=500&center=true&vCenter=true&width=800&lines=Welcome+viewers+to+my+intro+repository!" style="color:green; font-weight:bolder;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=500&center=true&vCenter=true&width=800&lines=Welcome+viewers+to+intro+repository!" style="color:green; font-weight:bolder;" />
 </h1>
 
 ---
