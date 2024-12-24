@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=500&center=true&vCenter=true&width=900&lines=Welcome+to+My+Intro+Repository+❤" style="color:green; font-weight:bolder; display:block; margin:auto; text-align:center;" />
 </h1>
 
----
+
 
 <h2 style="font-size: 28px; font-weight: bold; text-transform: uppercase; color: #4CAF50;">✨ About Me ✨</h2>
 
@@ -18,7 +18,6 @@ Passionate about coding, learning, and building impactful solutions. 🌟
   <li><strong>Portfolio Repository:</strong> <a href="https://jawadabbasi14.github.io/My_portfolio/" style="color: #4CAF50; font-weight: bold; text-decoration: none;">✨ My Portfolio Website ✨</a></li>
 </ul>
 
----
 
 <h2 style="font-size: 28px; font-weight: bold; text-transform: uppercase; color: #FF5722;">🌟 Skills & Tools 🌟</h2>
 
@@ -41,7 +40,6 @@ Passionate about coding, learning, and building impactful solutions. 🌟
   </tr>
 </table>
 
----
 
 <h2 style="font-size: 28px; font-weight: bold; text-transform: uppercase; color: #2196F3;">🚀 Goals 🚀</h2>
 
@@ -57,14 +55,9 @@ Passionate about coding, learning, and building impactful solutions. 🌟
 
 <p style="text-align:center;">
     <img src="https://github-readme-stats.vercel.app/api?username=JawadAbbasi14&show_icons=true&theme=radical" alt="Jawad's GitHub stats" style="margin: 10px;" />
-   <img src="https://readme-typing-svg.demolab.com/?lines=Your+text+here&font=Fira+Code&center=true&width=440&height=70&color=00F7F7&vCenter=true&size=20" alt="Typing SVG" />
-
 
 </p>
 
-<p style="font-size: 20px; font-weight: bold; color: #FF9800; text-align:center;"><strong>Hello viewers, welcome to my intro repository! 🌟</strong></p>
-
----
 
 <h2 style="font-size: 28px; font-weight: bold; text-transform: uppercase; color: #E91E63;">📝 Contact Me 📝</h2>
 
