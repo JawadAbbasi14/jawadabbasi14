@@ -4,8 +4,8 @@
 
 ---
 
+###  About Me
 
-**Read This!**
 Hi, I am **Jawad Abbasi**! 🚀
 - Aspiring **Full Stack Developer** & **Software Engineer** 💻.
 - Passionate about coding, learning, and building impactful solutions. 🌟
@@ -37,6 +37,7 @@ In the future, I aspire to:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=JawadAbbasi14&show_icons=true&theme=radical" alt="Jawad's GitHub stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JawadAbbasi14&theme=radical" alt="GitHub Streak" />
+    <p align="center">Hello viewers, welcome to my intro repository!</p>
 </p>
 
 ---
