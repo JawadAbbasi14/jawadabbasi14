@@ -69,6 +69,6 @@ Passionate about coding, learning, and building impactful solutions. 🌟
 <p style="font-size: 18px; line-height: 1.6;">
 Feel free to reach out to me!<br>
 📧 <strong>Email:</strong> <a href="mailto:jawadabbasi1107@gmail.com">jawadabbasi1107@gmail.com</a><br>
-🌐 <strong>Portfolio:</strong> <a href="https:[Read my portfolio ](https://github.com/JawadAbbasi14/My_portfolio)">GitHub Portfolio</a><br>
+🌐 <strong>Portfolio:</strong>[Read my portfolio ] <a href="https:(https://github.com/JawadAbbasi14/My_portfolio)">GitHub Portfolio</a><br>
 🌐 <strong>Portfolio Repository:</strong> <a href="https://jawadabbasi14.github.io/My_portfolio/" style="color: #4CAF50; font-weight: bold; text-decoration: none;">✨ My Portfolio Website</a>
 </p>
