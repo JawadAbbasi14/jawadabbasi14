@@ -1,50 +1,74 @@
-Canvas <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=500&center=true&vCenter=true&width=800&lines=Welcome+viewers+to+intro+repository!" style="color:green; font-weight:bolder;" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=500&center=true&vCenter=true&width=900&lines=Welcome+to+My+Intro+Repository+❤" style="color:green; font-weight:bolder;" />
 </h1>
 
 ---
 
-###  About Me
+<h2 align="center" style="font-size: 28px; font-weight: bold; text-transform: uppercase; color: #4CAF50;">✨ About Me ✨</h2>
 
-Hi, I am **Jawad Abbasi**! 🚀
-- Aspiring **Full Stack Developer** & **Software Engineer** 💻.
-- Passionate about coding, learning, and building impactful solutions. 🌟
-- Email: [jawadabbasi1107@gmail.com](mailto:jawadabbasi1107@gmail.com)
-- Portfolio: [Check My Portfolio](https://github.com/JawadAbbasi14/jawadabbasi14) 🌐
-
----
-
-### 🌟 Skills & Tools
-
-- **Languages**: Python 🐍, JavaScript ✨, HTML & CSS 🎨
-- **Frameworks**: React ⚛️, Node.js 🌿, Django 🍃
-- **Databases**: MySQL 🗄️, MongoDB 🍃
-- **Tools**: Git 🛠️, VS Code ✏️, Postman 🚀
-
----
-
-### 🚀 Goals
-
-In the future, I aspire to:
-- Become a **Full Stack Developer** 🌐
-- Master **Software Development** 📚
-- Contribute to impactful open-source projects 🌟
-
----
-
-### 💻 My GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JawadAbbasi14&show_icons=true&theme=radical" alt="Jawad's GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JawadAbbasi14&theme=radical" alt="GitHub Streak" />
-    <p align="center">Hello viewers, welcome to my intro repository!</p>
+<p align="center" style="font-size: 18px; line-height: 1.6;">
+Hi, I am <strong>Jawad Abbasi</strong>! 🚀<br>
+An aspiring <strong>Full Stack Developer</strong> & <strong>Software Engineer</strong> 💻.<br>
+Passionate about coding, learning, and building impactful solutions. 🌟
 </p>
 
+<ul>
+  <li><strong>Email:</strong> <a href="mailto:jawadabbasi1107@gmail.com">jawadabbasi1107@gmail.com</a></li>
+  <li><strong>Portfolio:</strong> <a href="https://github.com/JawadAbbasi14/jawadabbasi14">GitHub Portfolio</a> 🌐</li>
+  <li><strong>Portfolio Repository:</strong> <a href="https://jawadabbasi14.github.io/My_portfolio/">My Portfolio Website</a> 🌐</li>
+</ul>
+
 ---
 
-### 📝 Contact Me
+<h2 align="center" style="font-size: 28px; font-weight: bold; text-transform: uppercase; color: #FF5722;">🌟 Skills & Tools 🌟</h2>
 
-Feel free to reach out to me!
-- 📧 Email: [jawadabbasi1107@gmail.com](mailto:jawadabbasi1107@gmail.com)
-- 🌐 Portfolio: [My Portfolio](https://github.com/JawadAbbasi14/jawadabbasi14)
-can you improve this make more beautiful and well formate  and set the text of my animation =wellcome Hare❤
+<table align="center" style="border-collapse: collapse; width: 80%; font-size: 16px;">
+  <tr style="background-color: #f9f9f9;">
+    <td style="padding: 10px; font-weight: bold;">Languages</td>
+    <td style="padding: 10px;">Python 🐍, JavaScript ✨, HTML & CSS 🎨</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; font-weight: bold;">Frameworks</td>
+    <td style="padding: 10px;">React ⚛️, Node.js 🌿, Django 🍃</td>
+  </tr>
+  <tr style="background-color: #f9f9f9;">
+    <td style="padding: 10px; font-weight: bold;">Databases</td>
+    <td style="padding: 10px;">MySQL 🗄️, MongoDB 🍃</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; font-weight: bold;">Tools</td>
+    <td style="padding: 10px;">Git 🛠️, VS Code ✏️, Postman 🚀</td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center" style="font-size: 28px; font-weight: bold; text-transform: uppercase; color: #2196F3;">🚀 Goals 🚀</h2>
+
+<ul style="font-size: 18px; line-height: 1.6;">
+  <li>Become a <strong>Full Stack Developer</strong> 🌐</li>
+  <li>Master <strong>Software Development</strong> 📚</li>
+  <li>Contribute to impactful open-source projects 🌟</li>
+</ul>
+
+---
+
+<h2 align="center" style="font-size: 28px; font-weight: bold; text-transform: uppercase; color: #9C27B0;">💻 My GitHub Stats 💻</h2>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=JawadAbbasi14&show_icons=true&theme=radical" alt="Jawad's GitHub stats" style="margin: 10px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JawadAbbasi14&theme=radical" alt="GitHub Streak" style="margin: 10px;" />
+</p>
+
+<p align="center" style="font-size: 20px; font-weight: bold; color: #FF9800;"><strong>Hello viewers, welcome to my intro repository! 🌟</strong></p>
+
+---
+
+<h2 align="center" style="font-size: 28px; font-weight: bold; text-transform: uppercase; color: #E91E63;">📝 Contact Me 📝</h2>
+
+<p align="center" style="font-size: 18px; line-height: 1.6;">
+Feel free to reach out to me!<br>
+📧 <strong>Email:</strong> <a href="mailto:jawadabbasi1107@gmail.com">jawadabbasi1107@gmail.com</a><br>
+🌐 <strong>Portfolio:</strong> <a href="https://github.com/JawadAbbasi14/jawadabbasi14">GitHub Portfolio</a><br>
+🌐 <strong>Portfolio Repository:</strong> <a href="https://jawadabbasi14.github.io/My_portfolio/">My Portfolio Website</a>
+</p>
