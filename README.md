@@ -57,7 +57,9 @@ Passionate about coding, learning, and building impactful solutions. 🌟
 
 <p style="text-align:center;">
     <img src="https://github-readme-stats.vercel.app/api?username=JawadAbbasi14&show_icons=true&theme=radical" alt="Jawad's GitHub stats" style="margin: 10px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JawadAbbasi14&theme=radical" alt="GitHub Streak" style="margin: 10px;" />
+   <img src="https://readme-typing-svg.demolab.com/?lines=Your+text+here&font=Fira+Code&center=true&width=440&height=70&color=00F7F7&vCenter=true&size=20" alt="Typing SVG" />
+
+
 </p>
 
 <p style="font-size: 20px; font-weight: bold; color: #FF9800; text-align:center;"><strong>Hello viewers, welcome to my intro repository! 🌟</strong></p>
