@@ -1,5 +1,5 @@
 <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=500&center=true&vCenter=true&width=900&lines=Hi👋+dear,+i+am+jawad" style="color:green; font-weight:bold; display:block; margin:auto; text-align:center;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=500&center=true&vCenter=true&width=900&lines=Hi👋+dear,+My+Nmae+Is+Jawad" style="color:green; font-weight:bold; display:block; margin:auto; text-align:center;" />
 </h1>
 
 ---
