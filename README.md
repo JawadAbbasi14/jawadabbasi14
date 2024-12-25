@@ -79,20 +79,14 @@
 
 ---
 
-<h2 style="font-size: 32px; font-weight: bold; text-transform: uppercase; color: #9C27B0; text-align: center; margin-bottom: 20px;">
-    💻 My GitHub Stats 💻
-</h2>
+<h2 style="font-size: 28px; font-weight: bold; text-transform: uppercase; color: #9C27B0;">💻 My GitHub Stats 💻</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=JawadAbbasi14&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-    
-    <!-- GitHub Streak -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JawadAbbasi14&theme=radical" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-    
-    <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAbbasi14&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-</div>
+<p style="text-align:center;">
+<img src="https://github-readme-stats.vercel.app/api?username=JawadAbbasi14&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JawadAbbasi14&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAbbasi14&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 
 
