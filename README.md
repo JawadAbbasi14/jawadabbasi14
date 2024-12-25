@@ -91,21 +91,23 @@
 
 
 ## Contact Me 
-
-<h2 style="text-align: center;">
-   Contact Me 
+<h2 style="font-size: 32px; font-weight: bold; text-transform: uppercase; color: #E91E63; text-align: center; margin-bottom: 20px;">
+    📝 Contact Me 📝
 </h2>
 
-<div style="text-align: center; padding: 20px; border: 2px solid #E91E63; border-radius: 10px; width: 80%; margin: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); background-color: #fefefe;">
-
-  <p>
-    Feel free to reach out to me! <br>
-    **Email:**  
-    [jawadabbasi1107@gmail.com](mailto:jawadabbasi1107@gmail.com) (**bold**)
-    <br>
-    **Portfolio:**  
-    [✨ My Portfolio Website ✨](https://jawadabbasi14.github.io/My_portfolio/) (**bold, green**)
-  </p>
-
+<div style="font-size: 18px; line-height: 1.8; text-align: center; color: #333; padding: 20px; border: 2px solid #E91E63; border-radius: 10px; width: 80%; margin: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); background-color: #fefefe;">
+    <p>
+        Feel free to reach out to me! 😊<br>
+        📧 <strong>Email:</strong> 
+        <a href="mailto:jawadabbasi1107@gmail.com" style="color: #E91E63; font-weight: bold; text-decoration: none;">
+            jawadabbasi1107@gmail.com
+        </a>
+        <br>
+        🌐 <strong>Portfolio:</strong> 
+        <a href="https://jawadabbasi14.github.io/My_portfolio/" style="color: #4CAF50; font-weight: bold; text-decoration: none;">
+            ✨ My Portfolio Website ✨
+        </a>
+    </p>
 </div>
+
 
