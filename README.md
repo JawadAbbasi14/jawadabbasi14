@@ -1,6 +1,7 @@
-<h1 style="text-align:center; margin:auto; display:block;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=500&center=true&vCenter=true&width=900&lines=Hi👋+Dear,+welcome+to+<span style='font-weight:bold;color:darkgreen;'>Jawad</span>'s+GitHub" />
+<h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=500&center=true&vCenter=true&width=900&lines=Hi👋+Dear,+welcome+to+Jawad's+GitHub" style="color:green; font-weight:bolder; display:block; margin:auto; text-align:center;" />
 </h1>
+
 
 ---
 
