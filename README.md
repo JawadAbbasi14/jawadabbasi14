@@ -1,6 +1,6 @@
 <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=500&center=true&vCenter=true&width=900&lines=Hi👋+Dear,+welcome+to+<span style='color:darkgreen; font-weight:bold;'>Jawad's</span>+GitHub" style="color:black; font-weight:normal; display:block; margin:auto; te
-
+      </h1>
 
 ---
 
