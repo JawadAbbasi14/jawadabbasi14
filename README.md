@@ -90,7 +90,7 @@
 
 
 
-## Contact Me 
+
 <h2 style="font-size: 32px; font-weight: bold; text-transform: uppercase; color: #E91E63; text-align: center; margin-bottom: 20px;">
     📝 Contact Me 📝
 </h2>
