@@ -1,7 +1,13 @@
 <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=500&center=true&vCenter=true&width=900&lines=Hi👋+Dear,+welcome+to+Jawad's+GitHub" style="color:green; font-weight:bolder; display:block; margin:auto; text-align:center;" />
 </h1>
-
+<h1>
+  Hi Dear, welcome to <span class="jawad">Jawad's</span> GitHub
+</h1>
+.jawad {
+  color: green;
+  font-weight: bold;
+}
 
 ---
 
