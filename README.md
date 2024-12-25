@@ -5,44 +5,66 @@
 ---
 
 
+<h2 style="font-size: 32px; font-weight: bold; text-transform: uppercase; color: #4CAF50; text-align: center; margin-bottom: 20px;">
+    ✨ About Me ✨
+</h2>
 
-<h2 style="font-size: 28px; font-weight: bold; text-transform: uppercase; color: #4CAF50;">✨ About Me ✨</h2>
-
-<p style="font-size: 18px; line-height: 1.6;">
-Hi, I am <strong>Jawad Abbasi</strong>! 🚀<br>
-An aspiring <strong>Full Stack Developer</strong> & <strong>Software Engineer</strong> 💻.<br>
-Passionate about coding, learning, and building impactful solutions. 🌟
+<p style="font-size: 18px; line-height: 1.8; text-align: center; color: #333;">
+    Hi, I am <strong style="color: #4CAF50;">Jawad Abbasi</strong>! 🚀<br>
+    An aspiring <strong>Full Stack Developer</strong> & <strong>Software Engineer</strong> 💻<br>
+    Passionate about <em>coding, learning</em>, and building impactful solutions. 🌟
 </p>
 
-<ul>
-  <li><strong>Email:</strong> <a href="mailto:jawadabbasi1107@gmail.com">jawadabbasi1107@gmail.com</a></li>
-  <li><strong>Portfolio:</strong> <a href="https://github.com/JawadAbbasi14/jawadabbasi14">GitHub Portfolio</a> 🌐</li>
-  <li><strong>Portfolio Repository:</strong> <a href="https://jawadabbasi14.github.io/My_portfolio/" style="color: #4CAF50; font-weight: bold; text-decoration: none;">✨ My Portfolio Website ✨</a></li>
+<ul style="list-style-type: none; padding: 0; font-size: 18px; line-height: 1.8; color: #333;">
+  <li>
+    <strong>Email:</strong> 
+    <a href="mailto:jawadabbasi1107@gmail.com" style="color: #4CAF50; text-decoration: none;">jawadabbasi1107@gmail.com</a>
+  </li>
+  <li>
+    <strong>Portfolio:</strong> 
+    <a href="https://github.com/JawadAbbasi14/jawadabbasi14" style="color: #4CAF50; text-decoration: none;">GitHub Portfolio 🌐</a>
+  </li>
+  <li>
+    <strong>Portfolio Repository:</strong> 
+    <a href="https://jawadabbasi14.github.io/My_portfolio/" style="color: #4CAF50; font-weight: bold; text-decoration: none;">✨ My Portfolio Website ✨</a>
+  </li>
 </ul>
+
 
 ---
 
 
-<h2 style="font-size: 28px; font-weight: bold; text-transform: uppercase; color: #FF5722;">🌟 Skills & Tools 🌟</h2>
+<h2 style="font-size: 32px; font-weight: bold; text-transform: uppercase; color: #FF5722; text-align: center; margin-bottom: 20px;">
+    🌟 Skills & Tools 🌟
+</h2>
 
-<table style="border-collapse: collapse; width: 80%; font-size: 16px; margin:auto;">
-  <tr style="background-color: #f9f9f9;">
-    <td style="padding: 10px; font-weight: bold;">Languages</td>
-    <td style="padding: 10px;">Python 🐍, JavaScript ✨, HTML & CSS 🎨</td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; font-weight: bold;">Frameworks</td>
-    <td style="padding: 10px;">React ⚛️, Node.js 🌿, Django 🍃</td>
-  </tr>
-  <tr style="background-color: #f9f9f9;">
-    <td style="padding: 10px; font-weight: bold;">Databases</td>
-    <td style="padding: 10px;">MySQL 🗄️, MongoDB 🍃</td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; font-weight: bold;">Tools</td>
-    <td style="padding: 10px;">Git 🛠️, VS Code ✏️, Postman 🚀</td>
-  </tr>
+<table style="border-collapse: collapse; width: 90%; margin: auto; font-size: 18px; color: #333; text-align: left; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <thead>
+    <tr style="background-color: #FF5722; color: #fff;">
+      <th style="padding: 12px; font-weight: bold; text-align: center;">Category</th>
+      <th style="padding: 12px; font-weight: bold; text-align: center;">Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #f9f9f9;">
+      <td style="padding: 12px; font-weight: bold;">Languages</td>
+      <td style="padding: 12px;">Python 🐍, JavaScript ✨, HTML & CSS 🎨</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; font-weight: bold;">Frameworks</td>
+      <td style="padding: 12px;">React ⚛️, Node.js 🌿, Django 🍃</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="padding: 12px; font-weight: bold;">Databases</td>
+      <td style="padding: 12px;">MySQL 🗄️, MongoDB 🍃</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; font-weight: bold;">Tools</td>
+      <td style="padding: 12px;">Git 🛠️, VS Code ✏️, Postman 🚀</td>
+    </tr>
+  </tbody>
 </table>
+
 
 
 ---
@@ -57,20 +79,39 @@ Passionate about coding, learning, and building impactful solutions. 🌟
 
 ---
 
-<h2 style="font-size: 28px; font-weight: bold; text-transform: uppercase; color: #9C27B0;">💻 My GitHub Stats 💻</h2>
+<h2 style="font-size: 32px; font-weight: bold; text-transform: uppercase; color: #9C27B0; text-align: center; margin-bottom: 20px;">
+    💻 My GitHub Stats 💻
+</h2>
 
-<p style="text-align:center;">
-<img src="https://github-readme-stats.vercel.app/api?username=JawadAbbasi14&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JawadAbbasi14&theme=radical" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAbbasi14&layout=compact&theme=radical" alt="Top Languages" />
-  
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=JawadAbbasi14&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+    
+    <!-- GitHub Streak -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JawadAbbasi14&theme=radical" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+    
+    <!-- Top Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAbbasi14&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+</div>
 
 
-<h2 style="font-size: 28px; font-weight: bold; text-transform: uppercase; color: #E91E63;">📝 Contact Me 📝</h2>
 
-<p style="font-size: 18px; line-height: 1.6;">
-Feel free to reach out to me!<br>
-📧 <strong>Email:</strong> <a href="mailto:jawadabbasi1107@gmail.com">jawadabbasi1107@gmail.com</a><br>
-🌐 <strong>Portfolio Repository:</strong> <a href="https://jawadabbasi14.github.io/My_portfolio/" style="color: #4CAF50; font-weight: bold; text-decoration: none;">✨ My Portfolio Website</a>
-</p>
+<h2 style="font-size: 32px; font-weight: bold; text-transform: uppercase; color: #E91E63; text-align: center; margin-bottom: 20px;">
+    📝 Contact Me 📝
+</h2>
+
+<div style="font-size: 18px; line-height: 1.8; text-align: center; color: #333; padding: 20px; border: 2px solid #E91E63; border-radius: 10px; width: 80%; margin: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); background-color: #fefefe;">
+    <p>
+        Feel free to reach out to me! 😊<br>
+        📧 <strong>Email:</strong> 
+        <a href="mailto:jawadabbasi1107@gmail.com" style="color: #E91E63; font-weight: bold; text-decoration: none;">
+            jawadabbasi1107@gmail.com
+        </a>
+        <br>
+        🌐 <strong>Portfolio:</strong> 
+        <a href="https://jawadabbasi14.github.io/My_portfolio/" style="color: #4CAF50; font-weight: bold; text-decoration: none;">
+            ✨ My Portfolio Website ✨
+        </a>
+    </p>
+</div>
+
