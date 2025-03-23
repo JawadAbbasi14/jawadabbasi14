@@ -1,6 +1,6 @@
-<h1>
+<h2>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=500&center=true&vCenter=true&width=900&lines=Hi👋+dear,+I+am+Jawad." style="color:green; font-weight:bold; display:block; margin:auto; text-align:center;" />
-</h1>
+</h2>
 
 ---
 
