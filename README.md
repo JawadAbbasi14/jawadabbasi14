@@ -45,19 +45,27 @@
   <tbody>
     <tr style="background-color: #f9f9f9;">
       <td style="padding: 12px; font-weight: bold;">Languages</td>
-      <td style="padding: 12px;">Python 🐍, JavaScript ✨, HTML & CSS 🎨</td>
+      <td style="padding: 12px;">Python 🐍, Bash 🖥️</td>
     </tr>
     <tr>
-      <td style="padding: 12px; font-weight: bold;">Frameworks</td>
-      <td style="padding: 12px;">React ⚛️, Node.js 🌿, Django 🍃</td>
+      <td style="padding: 12px; font-weight: bold;">AI & Machine Learning</td>
+      <td style="padding: 12px;">TensorFlow 🔬, PyTorch 🔥, Scikit-Learn 📊</td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td style="padding: 12px; font-weight: bold;">Databases</td>
-      <td style="padding: 12px;">MySQL 🗄️, MongoDB 🍃</td>
+      <td style="padding: 12px; font-weight: bold;">Cybersecurity</td>
+      <td style="padding: 12px;">Kali Linux 🛡️, Metasploit, Wireshark</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; font-weight: bold;">Backend & Databases</td>
+      <td style="padding: 12px;">Django 🍃, FastAPI ⚡, PostgreSQL 🗄️, MongoDB 🍃</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="padding: 12px; font-weight: bold;">DevOps & Cloud</td>
+      <td style="padding: 12px;">Docker 🐳, Kubernetes ☸️, AWS ☁️, GitHub Actions</td>
     </tr>
     <tr>
       <td style="padding: 12px; font-weight: bold;">Tools</td>
-      <td style="padding: 12px;">Git 🛠️, VS Code ✏️, Postman 🚀</td>
+      <td style="padding: 12px;">Git 🛠️, VS Code ✏️, Jupyter Notebook 📒</td>
     </tr>
   </tbody>
 </table>
