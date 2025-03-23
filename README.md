@@ -1,5 +1,5 @@
   <h1 class="animated-heading">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=500&center=true&vCenter=true&width=800&lines=Hi👋%2C+I+am+Jawad!;Welcome+to+my+portfolio!;I+am+Python+Developer+%26+Programmer+%F0%9F%92%BB!" style="color:green; font-weight:bolder;" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=500&center=true&vCenter=true&width=800&lines=Hi👋%2C+I+am+Jawad!;Welcome+to+my+github!;I+am+Python+Developer+%26+Programmer+%F0%9F%92%BB!" style="color:green; font-weight:bolder;" />
     </h1>
 
 ---
