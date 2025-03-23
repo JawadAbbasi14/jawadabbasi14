@@ -10,8 +10,8 @@
 
 <p style="font-size: 18px; line-height: 1.8; text-align: center; color: #333;">
     Hi, I am <strong style="color: #4CAF50;">Jawad Abbasi</strong>! 🚀<br>
-    An aspiring <strong>Full Stack Developer</strong>, <strong>AI Developer</strong> & <strong>Cybersecurity Expert</strong> 💻<br>
-    Passionate about <em>coding, AI, security</em>, and building impactful solutions. 🌟
+    A <strong>learning</strong> <em>Full Stack Developer</em>, <em>AI Enthusiast</em> & <em>Cybersecurity Learner</em> 💻<br>
+    Passionate about <em>coding, AI, security</em>, and building impactful solutions as I grow. 🌟
 </p>
 
 <ul style="list-style-type: none; padding: 0; font-size: 18px; line-height: 1.8; color: #333;">
