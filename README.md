@@ -4,15 +4,14 @@
 
 ---
 
-
 <h2 style="font-size: 32px; font-weight: bold; text-transform: uppercase; color: #4CAF50; text-align: center; margin-bottom: 20px;">
     ✨ About Me ✨
 </h2>
 
 <p style="font-size: 18px; line-height: 1.8; text-align: center; color: #333;">
     Hi, I am <strong style="color: #4CAF50;">Jawad Abbasi</strong>! 🚀<br>
-    An aspiring <strong>Full Stack Developer</strong> & <strong>Software Engineer</strong> 💻<br>
-    Passionate about <em>coding, learning</em>, and building impactful solutions. 🌟
+    An aspiring <strong>Full Stack Developer</strong>, <strong>AI Developer</strong> & <strong>Cybersecurity Expert</strong> 💻<br>
+    Passionate about <em>coding, AI, security</em>, and building impactful solutions. 🌟
 </p>
 
 <ul style="list-style-type: none; padding: 0; font-size: 18px; line-height: 1.8; color: #333;">
@@ -30,9 +29,7 @@
   </li>
 </ul>
 
-
 ---
-
 
 <h2 style="font-size: 32px; font-weight: bold; text-transform: uppercase; color: #FF5722; text-align: center; margin-bottom: 20px;">
     🌟 Skills & Tools 🌟
@@ -65,16 +62,18 @@
   </tbody>
 </table>
 
-
-
 ---
 
 <h2 style="font-size: 28px; font-weight: bold; text-transform: uppercase; color: #2196F3;">🚀 Goals 🚀</h2>
 
 <ul style="font-size: 18px; line-height: 1.6;">
   <li>Become a <strong>Full Stack Developer</strong> 🌐</li>
-  <li>Master <strong>Software Development</strong> 📚</li>
+  <li>Master <strong>AI & Machine Learning</strong> 🤖</li>
+  <li>Develop and Deploy Scalable Software Solutions 🏗️</li>
   <li>Contribute to impactful open-source projects 🌟</li>
+  <li>Build and Optimize Real-World AI Systems ⚡</li>
+  <li>Master <strong>Cybersecurity & Ethical Hacking</strong> 🔐</li>
+  <li>Create Innovative AI-Powered Applications 🚀</li>
 </ul>
 
 ---
@@ -86,10 +85,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JawadAbbasi14&theme=radical" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAbbasi14&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-
-
-
 
 <h2 style="font-size: 32px; font-weight: bold; text-transform: uppercase; color: #E91E63; text-align: center; margin-bottom: 20px;">
     📝 Contact Me 📝
@@ -109,5 +104,3 @@
         </a>
     </p>
 </div>
-
-
