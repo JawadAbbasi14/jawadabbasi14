@@ -1,6 +1,6 @@
 <!-- README.md -->
+<h1 align="center">🚀 <span style="color:#007acc;">Jawad Abbasi</span> - <em>Full Stack Developer | AI Enthusiast | Cybersecurity Learner</em> 💻</h1>
 
-<h1 align="center"> Jawad Abbasi - Portfolio</h1>
 <h3 align="center">Python Developer &amp; Programmer 💻</h3>
 <p align="center">
   🔗 <strong>Live Website:</strong> 
