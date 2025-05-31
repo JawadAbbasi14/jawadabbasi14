@@ -16,7 +16,7 @@
 
 <ul style="list-style-type: none; padding: 0; font-size: 16px; line-height: 1.6; text-align: center; color: #333;">
   <li><strong>Email:</strong> <a href="mailto:jawadabbasi1107@gmail.com" style="color: #4CAF50; text-decoration: none;">jawadabbasi1107@gmail.com</a></li>
-  <li><strong>Portfolio:</strong> <a href="https://jawadabbasi14.github.io/My_portfolio/" style="color: #4CAF50; text-decoration: none;">My Portfolio Website 🌐</a></li>
+  <li><strong>Portfolio:</strong> <a href="https://jawadabbasi14.github.io/My_portfolio/" style="color: #4CAF50; text-decoration: none;">My Portfolio Website 🌐</a>https://jawadabbasi14.github.io/my-portfolio-website/</li>
 </ul>
 
 ---
