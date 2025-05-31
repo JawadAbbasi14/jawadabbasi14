@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">👨‍💻 Jawad Abbasi - Portfolio</h1>
+<h1 align="center"> Jawad Abbasi - Portfolio</h1>
 <h3 align="center">Python Developer &amp; Programmer 💻</h3>
 <p align="center">
   🔗 <strong>Live Website:</strong> 
