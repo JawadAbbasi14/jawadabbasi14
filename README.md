@@ -1,11 +1,19 @@
-<!-- README.md -->
-<h1 align="center">🚀 <span style="color:#007acc;">Jawad Abbasi</span> - <em>Full Stack Developer | AI Enthusiast | Cybersecurity Learner</em> 💻</h1>
+<h1 align="center">
+  🚀 <span style="color:#007acc;">Jawad Abbasi</span> – 
+  <em>Full Stack Developer | AI Enthusiast | Cybersecurity Learner</em> 💻
+</h1>
 
 <h3 align="center">Python Developer &amp; Programmer 💻</h3>
+
+<!-- 👇 Typing animation badge (Welcome text) -->
 <p align="center">
-  🔗 <strong>Live Website:</strong> 
-  <a href="https://jawadabbasi14.github.io/my-portfolio-website/" target="_blank">
-    https://jawadabbasi14.github.io/my-portfolio-website/
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C9FF&center=true&vCenter=true&multiline=true&width=500&lines=Welcome+to+my+GitHub!+👋;Explore+my+work%2C+projects%2C+and+skills." alt="Welcome to my GitHub" />
+</p>
+
+<p align="center">
+  🔗 <strong>Live Portfolio:</strong>  
+  <a href="https://jawadabbasi14.github.io/Mj-Porfolio/" target="_blank">
+    https://jawadabbasi14.github.io/Mj-Porfolio/
   </a>
 </p>
 
@@ -20,7 +28,7 @@
 
 <p align="center">
   <strong>Email:</strong> <a href="mailto:jawadabbasi1107@gmail.com">jawadabbasi1107@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <strong>Portfolio:</strong> <a href="https://jawadabbasi14.github.io/my-portfolio-website/" target="_blank">jawadabbasi14.github.io/my-portfolio-website/</a>
+  <strong>Portfolio:</strong> <a href="https://jawadabbasi14.github.io/Mj-Porfolio/" target="_blank">jawadabbasi14.github.io/Mj-Porfolio/</a>
 </p>
 
 ---
@@ -63,11 +71,10 @@
 ## 🚀 Goals 🚀
 
 - Become a **Full Stack Developer** 🌐  
-- Master **AI &amp; Machine Learning** 🤖  
-- Develop and deploy scalable software solutions 🏗️  
+- Master **AI & Machine Learning** 🤖  
+- Build and deploy scalable software solutions 🏗️  
 - Contribute to impactful open-source projects 🌟  
-- Build and optimize real-world AI systems ⚡  
-- Master **Cybersecurity &amp; Ethical Hacking** 🔐  
+- Master **Cybersecurity & Ethical Hacking** 🔐  
 - Create innovative AI-powered applications 🚀  
 
 ---
@@ -75,14 +82,14 @@
 ## 💻 GitHub Stats 💻
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JawadAbbasi14&amp;show_icons=true&amp;theme=radical" alt="Jawad Abbasi's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JawadAbbasi14&amp;theme=radical" alt="Jawad Abbasi's streak" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAbbasi14&amp;layout=compact&amp;theme=radical" alt="Jawad Abbasi's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JawadAbbasi14&show_icons=true&theme=radical" alt="GitHub Stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JawadAbbasi14&theme=radical" alt="Streak" /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAbbasi14&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 <div align="center">
-  **Connect with me:**  
-  <a href="https://jawadabbasi14.github.io/my-portfolio-website/" target="_blank">Live Portfolio Website 🌐</a>
+  🔗 <strong>Explore More:</strong><br />
+  <a href="https://jawadabbasi14.github.io/Mj-Porfolio/" target="_blank">🌐 Visit My Full Portfolio Website</a>
 </div>
