@@ -10,9 +10,13 @@
 </p>
 
 <p align="center">
+<p align="center">
   🔗 <strong>Portfolio:</strong> <a href="https://jawadabbasi14.github.io/Mj-Porfolio/" target="_blank">Live Demo</a> &nbsp;|&nbsp;
+  📄 <strong>CV:</strong> <a href="https://jawadabbasi14.github.io/Mj-Porfolio/cv.html" target="_blank">View CV</a> &nbsp;|&nbsp;
+  📬 <strong>Contact:</strong> <a href="https://jawadabbasi14.github.io/Mj-Porfolio/contactme.html" target="_blank">Contact Me</a> &nbsp;|&nbsp;
   📧 <strong>Email:</strong> <a href="mailto:jawadabbasi1107@gmail.com">jawadabbasi1107@gmail.com</a>
 </p>
+
 
 ---
 
