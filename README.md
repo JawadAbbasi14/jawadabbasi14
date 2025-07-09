@@ -5,9 +5,8 @@
 
 <h3 align="center">Python Developer &amp; Programmer 💻</h3>
 
-<!-- 👇 Typing animation badge (Welcome text) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C9FF&center=true&vCenter=true&multiline=true&width=500&lines=Welcome+to+my+GitHub!+👋;Explore+my+work%2C+projects%2C+and+skills." alt="Welcome to my GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00C9FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!+👋;Explore+my+Projects+%26+Skills." alt="Typing SVG" />
 </p>
 
 <p align="center">
