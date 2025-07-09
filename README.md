@@ -5,9 +5,12 @@
 
 <h3 align="center">Python Developer &amp; Programmer 💻</h3>
 
+<h2 align="center"><strong>🚀 Welcome to MJ Abbasi's GitHub</strong></h2>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00C9FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!+👋;Explore+my+Projects+%26+Skills." alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   🔗 <strong>Live Portfolio:</strong>  
