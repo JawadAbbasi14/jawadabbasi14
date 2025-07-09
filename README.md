@@ -1,6 +1,9 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-  <span style="color: #4CAF50;">Hi JawaD is hare!</span> 
+  <span style="font-size: 1.2rem;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" style="vertical-align: middle; margin-right: 5px;">
+  <strong style="color: #4CAF50; font-weight: 600;">✨ JAWAD is here, let's roll! 💻🔥</strong>
+</span>
+
   <br/>
   <strong>Full Stack Developer | AI & Cybersecurity Specialist</strong> 
 </h1>
