@@ -20,7 +20,7 @@
 - 🔭 **Currently Learning:** Advanced Python, React & Ethical Hacking  
 - 🌱 **Passionate About:** AI, Cybersecurity & python 
 - 💬 **Ask Me About:** Python, Django, FastAPI, Linuc(Arch Linux)  
-- 📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/mjabbasi-dev) | [Contact]([file:///C:/Users/pc/Desktop/my-portfolio/contactme.html](https://jawadabbasi14.github.io/Mj-Porfolio/contactme.html))  
+- 📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/mjabbasi-dev) | [Contact](file:///C:/Users/pc/Desktop/my-portfolio/cv.html)  
 
 ---
 
