@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
   <span style="color: #4CAF50;">Jawad Abbasi</span> 
   <br/>
-  <strong>Full Stack Developer | AI & Cybersecurity Specialist</strong> 🚀
+  <strong>Full Stack Developer | AI & Cybersecurity Specialist</strong> 
 </h1>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ## 👨💻 **About Me**
 - 🔭 **Currently Learning:** Advanced Python, React & Ethical Hacking  
-- 🌱 **Passionate About:** AI, Cybersecurity & Open-Source  
-- 💬 **Ask Me About:** Python, Django, FastAPI, TensorFlow  
-- 📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/mjabbasi-dev) | [Twitter](https://twitter.com/mjabbasi_dev)  
+- 🌱 **Passionate About:** AI, Cybersecurity & python 
+- 💬 **Ask Me About:** Python, Django, FastAPI, Linuc(Arch Linux)  
+- 📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/mjabbasi-dev) | [email](jawadabbasi1107@gmail.com)  
 
 ---
 
@@ -31,7 +31,7 @@
 | **Frontend**   | HTML5, CSS3, React (Learning)                                              |
 | **Backend**    | Django 🍃, FastAPI ⚡, Node.js (Basic)                                      |
 | **AI/ML**      | TensorFlow, PyTorch, NLP                                                   |
-| **Security**   | Kali Linux 🛡️, Metasploit, Wireshark                                      |
+| **Security**   | Kali and Arch Linux 🛡️, Metasploit, Wireshark                                      |
 | **DevOps**     | Docker 🐳, AWS ☁️, GitHub Actions                                          |
 | **Tools**      | Git, VS Code, Jupyter Notebook                                             |
 
