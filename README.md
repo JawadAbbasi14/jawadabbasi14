@@ -4,14 +4,12 @@
          width="38px"
          style="vertical-align: middle; filter: drop-shadow(0 0 6px rgba(0,255,157,0.6)); border-radius: 50%;">
     <strong style="
-      background: linear-gradient(270deg, #00ffaa, #00aaff, #aa00ff, #ff0080);
-      background-size: 600% 600%;
+      background: linear-gradient(90deg, #00ffaa, #00aaff, #aa00ff, #ff0080);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       font-weight: 900;
-      text-shadow: 0 2px 4px rgba(0,0,0,0.2);
-      animation: gradientFlow 6s ease infinite;">
-   💻 M-J — From Code to Creation. ⚡
+      text-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+      💻 M-J — From Code to Creation. ⚡
     </strong>
   </span>
 </h1>
