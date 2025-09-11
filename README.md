@@ -1,11 +1,12 @@
 <h1 align="center">
-  <span style="font-size: 1.2rem;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" style="vertical-align: middle; margin-right: 5px;">
-  <strong style="color: #4CAF50; font-weight: 600;">✨ JAWAD is here, let's roll! 💻🔥</strong>
-</span>
-
-  <br/>
-  <strong>Full Stack Developer | AI & Cybersecurity Specialist</strong> 
+  <span style="font-size: 1.3rem; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.5px;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXk0d3FpN2JmNnFwZzJ0cW9sM2x5dWp4cGZ1eWZ5dHZ2d3R0dWZ0c3FqZ2Z5d3ZqeWZlMjJlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdIuqZs3hIwGJJq/giphy.gif" 
+         width="32px" 
+         style="vertical-align: middle; margin-right: 8px; filter: drop-shadow(0 0 3px rgba(0,0,0,0.2));">
+    <strong style="background: linear-gradient(90deg, #FF9D00, #FF5733, #C70039); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700; text-shadow: 0 1px 2px rgba(0,0,0,0.1);">
+      🌀 M-J in the house — let’s ignite the code! ⚡
+    </strong>
+  </span>
 </h1>
 
 <p align="center">
