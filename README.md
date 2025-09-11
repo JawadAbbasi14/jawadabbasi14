@@ -14,14 +14,6 @@
   </span>
 </h1>
 
-<style>
-@keyframes gradientFlow {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&width=500&lines=Python+%7C+Django+%7C+FastAPI;AI+%7C+Machine+Learning+Enthusiast;Cybersecurity+%7C+Ethical+Hacking;Open-Source+Contributor" alt="Typing SVG" />
