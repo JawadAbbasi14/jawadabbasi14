@@ -1,6 +1,6 @@
 <h1 align="center">
   <span style="font-size: 1.5rem; font-family: 'JetBrains Mono', 'Fira Code', monospace; letter-spacing: -0.5px; display: inline-flex; align-items: center; gap: 12px;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXk0d3FpN2JmNnFwZzJ0cW9sM2x5dWp4cGZ1eWZ5dHZ2d3R0dWZ0c3FqZ2Z5d3ZqeWZlMjJlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdIuqZs3hIwGJJq/giphy.gif"
+    <img src="https://media.giphy.com/media/3ohzdIuqZs3hIwGJJq/giphy.gif"
          width="38px"
          style="vertical-align: middle; filter: drop-shadow(0 0 6px rgba(0,255,157,0.6)); border-radius: 50%;">
     <strong style="
@@ -9,10 +9,11 @@
       -webkit-text-fill-color: transparent;
       font-weight: 900;
       text-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-      💻 M-J — From Code to Creation. ⚡
+      💻 Welcome’s in MJ Zone ⚡
     </strong>
   </span>
 </h1>
+
 
 
 <p align="center">
