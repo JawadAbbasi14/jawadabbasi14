@@ -2,47 +2,21 @@
   <span style="
     font-size: 1.8rem;
     font-family: 'JetBrains Mono', 'Fira Code', monospace;
-    letter-spacing: -0.5px;
     display: inline-flex;
     align-items: center;
-    gap: 12px;
-    animation: fadeIn 1.5s ease-in-out;">
-    
+    gap: 10px;">
     <img src="https://media.giphy.com/media/3ohzdIuqZs3hIwGJJq/giphy.gif"
          width="42px"
-         style="vertical-align: middle; 
-                filter: drop-shadow(0 0 8px rgba(0,255,157,0.8)); 
-                border-radius: 50%;
-                animation: pulseGlow 2s infinite alternate;">
-    
+         style="border-radius:50%; filter: drop-shadow(0 0 5px #00ffaa);">
     <strong style="
-      background: linear-gradient(270deg, #00ffaa, #00aaff, #aa00ff, #ff0080, #ffcc00);
-      background-size: 500% 500%;
+      background: linear-gradient(90deg, #00ffaa, #00aaff, #aa00ff, #ff0080);
       -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      font-weight: 900;
-      text-shadow: 0 0 10px rgba(0,0,0,0.3);
-      animation: gradientShift 6s ease infinite;">
-      💻 Welcome’s in MJ Zone ⚡
+      -webkit-text-fill-color: transparent;">
+      💻 Enter the MJ Zone ⚡
     </strong>
   </span>
-
-  <style>
-    @keyframes gradientShift {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-    @keyframes pulseGlow {
-      from { filter: drop-shadow(0 0 5px rgba(0,255,157,0.6)); }
-      to { filter: drop-shadow(0 0 15px rgba(0,255,157,1)); }
-    }
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(-10px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-  </style>
 </h1>
+
 
 
 
