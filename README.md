@@ -9,7 +9,7 @@
       -webkit-text-fill-color: transparent;
       font-weight: 900;
       text-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-      💻 Welcome’s in MJ Zone ⚡
+      💻 Welcome’s in MJ  ⚡
     </strong>
   </span>
 </h1>
