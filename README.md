@@ -12,7 +12,7 @@
       background: linear-gradient(90deg, #00ffaa, #00aaff, #aa00ff, #ff0080);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;">
-      💻 Enter the MJ Zone ⚡
+     Welcome by MJ
     </strong>
   </span>
 </h1>
