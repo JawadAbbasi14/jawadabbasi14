@@ -36,7 +36,7 @@
 
 ---
 
-## 👨💻 **About Me**
+## 👨💻 **About Me**  
 - 🔭 **Currently Learning:** Advanced Python, React & Ethical Hacking  
 - 🌱 **Passionate About:** AI, Cybersecurity & python 
 - 💬 **Ask Me About:** Python, Django, FastAPI, Linuc(Arch Linux)  
