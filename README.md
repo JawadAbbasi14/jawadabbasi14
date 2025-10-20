@@ -22,8 +22,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&width=500&lines=Python+%7C+Django+%7C+FastAPI;AI+%7C+Machine+Learning+Enthusiast;Cybersecurity+%7C+Ethical+Hacking;Open-Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&lines=Building+with+Python;Learning+AI+%26+Cybersecurity;Exploring+Fullstack+and+Open+Source" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
 <p align="center">
